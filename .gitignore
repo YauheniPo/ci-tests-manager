@@ -1,7 +1,0 @@
-node_modules/
-dist/
-coverage/
-.env
-*.js.map
-swagger-output.json
-.idea/
